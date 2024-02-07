@@ -1,6 +1,6 @@
-namespace Hoshiyama
+namespace Taiki
 {
-	const char* TextMessage1 = "私の名前は一郎です。";
-	const char* TextMessage2 = "私の年齢は20歳です。";
-	const char* TextMessage3 = "私の好きな食べ物は焼肉です。";
+	const char* TextMessage1 = "みんな的には何したい？";
+	const char* TextMessage2 = "案出してほしい";
+	const char* TextMessage3 = "やらないと暇すぎる";
 }
